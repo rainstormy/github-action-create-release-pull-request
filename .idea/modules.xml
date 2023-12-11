@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/github-action-initiate-release-with-updraft.iml" filepath="$PROJECT_DIR$/.idea/github-action-initiate-release-with-updraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/github-action-release-pull-request.iml" filepath="$PROJECT_DIR$/.idea/github-action-release-pull-request.iml" />
     </modules>
   </component>
 </project>
